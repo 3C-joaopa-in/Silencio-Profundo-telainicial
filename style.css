@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+header {
+    font-family: "Jersey 10", sans-serif;
+    font-size: 80px;
+    margin: 50px 0 0 0;
+}
+
+.playbutton {
+    padding: 20px 20px 20px 20px;
+    margin: 0 550px 0 550px;
+    font-size: 30px;
+    text-align: center;
+    border: 3px solid white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.divkk {
+    margin: 400px 0 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    z-index: -100;
+}
